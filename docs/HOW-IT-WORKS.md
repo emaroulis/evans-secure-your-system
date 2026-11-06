@@ -1,6 +1,6 @@
 # How Evan's Secure Your System Works
 
-This document explains what the scanner does, what data it touches, how it runs offline, and the published research and documentation each check is based on. Sources are listed in the [References](#references) section at the end.
+This document explains what the scanner does, what data it touches, how it runs offline, and the published research and documentation each check is based on. Sources are listed in the [References](#references) section at the end. For authorship, AI assistance and the software used, see [CREDITS.md](../CREDITS.md).
 
 ## Contents
 
