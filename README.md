@@ -14,6 +14,8 @@ Secure Your System only reads your system. It never deletes, moves or changes an
 
 Works on **Windows 10/11**, **macOS 12+** and **Linux** (Ubuntu, Debian, Fedora, etc.).
 
+> **How does it work?** See [docs/HOW-IT-WORKS.md](docs/HOW-IT-WORKS.md) for a full explanation of every check, what data is (and isn't) saved, offline use, and the MITRE ATT&CK, Microsoft, Apple, NIST and EICAR sources behind the detection logic.
+
 ## Quick start
 
 1. Install **Python 3.9+** from <https://www.python.org/downloads/> (Windows: tick **Add python.exe to PATH**).
@@ -37,6 +39,7 @@ The full instructions follow.
 | `requirements.txt` | The helper packages that get installed automatically |
 | `README.md` | This guide |
 | `DEVELOPER.md` | How the code is organised, for programmers |
+| `docs/HOW-IT-WORKS.md` | How each check works, what data is touched, offline use, and sources |
 
 ---
 
