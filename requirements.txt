@@ -1,0 +1,4 @@
+# Required: lets Secure Your System see running programs and network connections
+psutil>=5.9
+# Optional: uncomment to enable YARA malware-rule scanning (see README.md)
+# yara-python>=4.3

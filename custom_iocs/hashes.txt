@@ -1,0 +1,5 @@
+# Secure Your System custom indicators
+# Add one SHA-256 hash per line, optionally followed by a description.
+# Example sources: MalwareBazaar (bazaar.abuse.ch) exports, your IT team, threat reports.
+#
+# 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef  Example-Trojan from phishing email

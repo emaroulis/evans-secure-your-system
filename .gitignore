@@ -1,0 +1,19 @@
+# Python environments and caches
+.venv/
+.build-venv/
+__pycache__/
+*.pyc
+
+# Standalone builds
+build/
+dist/
+*.spec
+
+# Scan reports (contain details about the scanned computer)
+*-report-*.html
+*-report-*.json
+*-report-*.txt
+
+# OS clutter
+.DS_Store
+Thumbs.db
